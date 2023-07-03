@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\datafiles\classes\CIS240\samples\Sample12AS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751583310a0d5c7006465eb31f14011a863afed3">
+        <dex dex="C:\datafiles\classes\CIS240\samples\Sample12AS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a796e412640dadc923d7c08a20fafefceaa42deb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\datafiles\classes\CIS240\samples\Sample12AS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca69b5ac3549bbf9c47e945f8e04a5f9c155f7b5">
+        <dex dex="C:\datafiles\classes\CIS240\samples\Sample12AS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1430f90a96260b48b3313c4587d513b395167dfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sccarbone\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\datafiles\classes\CIS240\samples\Sample12AS\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_87e1dab464a93a11618ba7a7daeda1141dfa5530\classes.dex" />
+    </item>
+
+</items>

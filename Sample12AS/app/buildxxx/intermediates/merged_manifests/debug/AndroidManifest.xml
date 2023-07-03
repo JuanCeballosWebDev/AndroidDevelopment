@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sccarbone.sample12"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="30"
+        android:targetSdkVersion="31" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:fullBackupContent=""
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.sccarbone.sample12.AddressConsole"
+            android:exported="true"
+            android:label="@string/title_activity_address_console" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sccarbone.sample12.AddressEntry"
+            android:label="@string/title_activity_address_entry"
+            android:parentActivityName="com.sccarbone.sample12.@string/title_activity_address_console" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sccarbone.sample12.AddressMessage" />
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,19 @@
+com/sccarbone/sample12/AddressCollection.java
+ com.sccarbone.sample12.AddressAttributeGroup
+ com.sccarbone.sample12.AddressCollection
+com/sccarbone/sample12/AddressConsole.java
+ com.sccarbone.sample12.AddressArrayAdapter
+ com.sccarbone.sample12.AddressConsole
+ com.sccarbone.sample12.AddressConsole$1
+com/sccarbone/sample12/AddressMessage.java
+ com.sccarbone.sample12.AddressMessage
+com/sccarbone/sample12/AddressEntry.java
+ com.sccarbone.sample12.AddressEntry
+com/sccarbone/sample12/BuildConfig.java
+ com.sccarbone.sample12.BuildConfig
+com/sccarbone/sample12/AddressDatabaseHelper.java
+ com.sccarbone.sample12.AddressDataSource
+ com.sccarbone.sample12.AddressDatabaseHelper
+com/sccarbone/sample12/AddressStrongTypeIntent.java
+ com.sccarbone.sample12.AddressStrongTypeIntent
+ com.sccarbone.sample12.AddressStrongTypeIntent$ActionType

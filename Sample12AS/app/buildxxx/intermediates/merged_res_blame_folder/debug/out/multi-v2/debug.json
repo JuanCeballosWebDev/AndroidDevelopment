@@ -1,0 +1,87 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\datafiles\\classes\\CIS240\\Samples2021\\Sample12AS\\app\\build\\intermediates\\merged_res\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\datafiles\\classes\\CIS240\\Samples2021\\Sample12AS\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,11,2,15,14,8,7,10,4,12,3,19,17,9,13,5,16,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "246,469,19,669,628,322,283,404,122,514,66,863,768,365,552,174,712,824",
+                        "endColumns": "35,43,45,41,39,41,37,63,50,36,54,39,54,37,74,70,54,37",
+                        "endOffsets": "277,508,60,706,663,359,316,463,168,546,116,898,818,398,622,240,762,857"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,91,135,181,223,263,305,343,407,458,487,542,582,637,675,750,821,876",
+                        "endColumns": "35,43,45,41,39,41,37,63,50,28,54,39,54,37,74,70,54,37",
+                        "endOffsets": "86,130,176,218,258,300,338,402,453,482,537,577,632,670,745,816,871,909"
+                    }
+                },
+                {
+                    "source": "C:\\datafiles\\classes\\CIS240\\Samples2021\\Sample12AS\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "58",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "914",
+                        "endColumns": "57",
+                        "endOffsets": "967"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\datafiles\\classes\\CIS240\\Samples2021\\Sample12AS\\app\\build\\intermediates\\merged_res\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\datafiles\\classes\\CIS240\\Samples2021\\Sample12AS\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "63",
+                        "endOffsets": "78"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\datafiles\\classes\\CIS240\\Samples2021\\Sample12AS\\app\\build\\intermediates\\merged_res\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\datafiles\\classes\\CIS240\\Samples2021\\Sample12AS\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "77",
+                        "endOffsets": "92"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}

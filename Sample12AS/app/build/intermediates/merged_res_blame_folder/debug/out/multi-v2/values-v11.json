@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sccarbone.sample12.app-mergeDebugResources-3:/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mansi\\AndroidStudioProjects\\Sample12cameraSharedService\\Sample12AS\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "63",
+                        "endOffsets": "78"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                }
+            ]
+        }
+    ]
+}
